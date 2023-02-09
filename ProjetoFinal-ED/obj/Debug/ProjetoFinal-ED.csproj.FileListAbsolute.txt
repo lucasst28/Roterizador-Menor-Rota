@@ -1,0 +1,11 @@
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\bin\Debug\ProjetoFinal-ED.exe.config
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\bin\Debug\ProjetoFinal-ED.exe
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\bin\Debug\ProjetoFinal-ED.pdb
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.csproj.AssemblyReference.cache
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.csproj.SuggestedBindingRedirects.cache
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal_ED.Form1.resources
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal_ED.Properties.Resources.resources
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.csproj.GenerateResource.cache
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.csproj.CoreCompileInputs.cache
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.exe
+G:\documentos\ED\ProjetoFinal-ED\ProjetoFinal-ED\obj\Debug\ProjetoFinal-ED.pdb
